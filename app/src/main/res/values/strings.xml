@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="enter_number_of_sides_4_12">Enter number of sides (4–12)</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+    <string-array name="dice_sides_array">
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="players_number_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
